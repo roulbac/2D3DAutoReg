@@ -12,5 +12,5 @@ dependencies = [
     "SimpleITK>=2.3",
     "scipy>=1.11",
     "nibabel>=5.0",
-    "python-multipart>=0.0.9",
+    "python-multipart>=0.0.27",
 ]
